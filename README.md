@@ -6,6 +6,8 @@ A .NET financial calculation tool focused on investment and loan calculations.
 
 InvestmentApp is a C# console application, currently executes loan interest calculation functionality.
 
+![Screenshot](https://imgur.com/a1ig8E4.png)
+
 ## Project Structure
 
 - **InvestmentConsoleApp**: Console application interface
